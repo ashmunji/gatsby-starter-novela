@@ -4,5 +4,5 @@ bio: |
 avatar: ./avatars/ashwini-logo.png
 social:
   - url: https://www.nimu.work
-  - url: https://www.instagram.com/ashwinimunji/
+  - name: ashwinimunji
 featured: true
