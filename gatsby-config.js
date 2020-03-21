@@ -5,8 +5,8 @@ module.exports = {
     siteUrl: `https://blog.nimu.work`,
     description: `Personal blog of Ashwini Munji Diddigi`,
     hero: {
-      heading: `Welcome to Ashwini's Blog.`,
-      maxWidth: 652,
+      heading: `Welcome to Ashwini's blog.`,
+      maxWidth: 250,
     },
     social: [
       {
