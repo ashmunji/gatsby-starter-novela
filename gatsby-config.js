@@ -10,16 +10,17 @@ module.exports = {
     },
     social: [
       {
+        name:`ashwinimunji`,
+        url:`https://www.nimu.work`
+      },
+      {
         name: `instagram`,
         url: `https://instagram.com/ashwinimunji`,
       },
       {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/ashwinimunji`,
-      },{
-        name:`ashwinimunji`,
-        url:`https://nimu.work`
-      }
+      },
       
     ],
   },
