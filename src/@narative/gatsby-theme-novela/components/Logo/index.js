@@ -9,16 +9,13 @@ import React from 'react';
  */
 export default function Logo({ fill }) {
   return (
-    <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-        width="100.000000pt" height="100.000000pt" viewBox="0 0 100.000000 100.000000"
-        preserveAspectRatio="xMidYMid meet">
-        <metadata>
-        Created by potrace 1.15, written by Peter Selinger 2001-2017
-        </metadata>
-        <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)"
-        fill="#000000" stroke="none">
-        <path d="M0 500 l0 -500 500 0 500 0 0 500 0 500 -500 0 -500 0 0 -500z"/>
-        </g>
+    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <!--
+      with a large viewBox the circle looks small
+      as it is using user units for the r attribute:
+      4 resolved against 100 as set in the viewBox
+      -->
+      <circle cx="5%" cy="5%" r="4" fill={fill}/>
     </svg>
 
   );
