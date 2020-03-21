@@ -16,7 +16,10 @@ module.exports = {
       {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/ashwinimunji`,
-      },
+      },{
+        name:`ashwinimunji`,
+        url:`https://nimu.work`
+      }
       
     ],
   },
