@@ -9,10 +9,17 @@ import React from 'react';
  */
 export default function Logo({ fill }) {
   return (
-    <svg viewBox="0 0 106 28" height="30px">
-      <path d="M62.9 12h2.8v10...." />
-      <path fill={fill} d="M25 14h-..." />
-      <path d="M14 0C6.3..." fill="#639" />
+    <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+        width="100.000000pt" height="100.000000pt" viewBox="0 0 100.000000 100.000000"
+        preserveAspectRatio="xMidYMid meet">
+        <metadata>
+        Created by potrace 1.15, written by Peter Selinger 2001-2017
+        </metadata>
+        <g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)"
+        fill="#000000" stroke="none">
+        <path d="M0 500 l0 -500 500 0 500 0 0 500 0 500 -500 0 -500 0 0 -500z"/>
+        </g>
     </svg>
+
   );
 }
