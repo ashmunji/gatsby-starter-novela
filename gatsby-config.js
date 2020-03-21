@@ -10,6 +10,10 @@ module.exports = {
     },
     social: [
       {
+        name: `ashwini munji`,
+        url: `https://nimu.work`
+      },
+      {
         name: `instagram`,
         url: `https://instagram.com/ashwinimunji`,
       },
@@ -17,6 +21,7 @@ module.exports = {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/ashwinimunji`,
       },
+      
     ],
   },
   plugins: [
