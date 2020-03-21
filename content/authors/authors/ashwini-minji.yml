@@ -3,7 +3,7 @@ bio: |
   Interior Designer/Art/Architecture.
 avatar: ./avatars/ashwini-logo.png
 social:
-  - name: https://www.nimu.work/
+  - url: https://www.nimu.work/
   - url: https://www.instagram.com/ashwinimunji/
 
 featured: true
