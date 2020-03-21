@@ -15,7 +15,7 @@ import Patreon from './social/Patreon.Icon';
 import Paypal from './social/Paypal.Icon';
 import DigitalOcean from './social/DigitalOcean.Icon';
 import TripAdvisor from './social/TripAdvisor.Icon';
-import ashwinimunji from './social/TripAdvisor.Icon';
+import ashwinimunji from './social/AshwiniMunji.Icon';
 
 // UI
 import ChevronLeft from './ui/ChevronLeft.Icon';
