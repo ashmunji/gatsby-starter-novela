@@ -29,7 +29,8 @@ const icons = {
   paypal: Icons.Paypal,
   digitalocean: Icons.DigitalOcean,
   tripadvisor: Icons.TripAdvisor,
-  ashwinimunji: Icons.ashwinimunji
+  ashwinimunji: Icons.ashwinimunji,
+  nimu: Icons.ashwinimunji
 };
 
 const getHostname = url => {
