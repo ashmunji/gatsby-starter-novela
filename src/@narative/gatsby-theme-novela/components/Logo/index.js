@@ -20,5 +20,6 @@ export default function Logo({ fill }) {
       d="M15.41 16.09L10.83 11.5L15.41 6.91L14 5.5L8 11.5L14 17.5L15.41 16.09Z"
       fill={fill}
     />
+    </svg>
   );
 }
