@@ -10,11 +10,6 @@ import React from 'react';
 export default function Logo({ fill }) {
   return (
     <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-      <!--
-      with a large viewBox the circle looks small
-      as it is using user units for the r attribute:
-      4 resolved against 100 as set in the viewBox
-      -->
       <circle cx="5%" cy="5%" r="4" fill={fill}/>
     </svg>
 
