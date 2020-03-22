@@ -17,4 +17,4 @@ I mean who wouldn't admire their vibrant, pastel coats? Aren't those long necks 
 
 Keep Tabs on this space to view all of my flamingo illustrations.  
 
-1. [Abstractions](https://www.nimu.work/flemingo-abstractions/)
+1. [Abstractions](/flemingo-abstractions/)
