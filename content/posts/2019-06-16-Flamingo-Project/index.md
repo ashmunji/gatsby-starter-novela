@@ -1,5 +1,5 @@
 ---
-title: Project- Flamingo
+title: Project - Flamingo
 author: Ashwini Munji
 date: 2019-06-16
 hero: ./images/hero.jpg
@@ -17,4 +17,4 @@ I mean who wouldn't admire their vibrant, pastel coats? Aren't those long necks 
 
 Keep Tabs on this space to view all of my flamingo illustrations.  
 
-1. [Abstractions](/flemingo-abstractions/)
+1. [Abstractions](/flamingo-abstractions/)

@@ -8,7 +8,7 @@ excerpt: As I desperately tried to think of concepts to draw the bird, motivatio
 
 ## Abstractions
 
-This section is a part of the [Flamingo Project](https://www.nimu.work/project-flamingo/). Go check it out!
+This section is a part of the [Flamingo Project](/project-flamingo/). Go check it out!
 
 As I desperately tried to think of concepts to draw the bird, motivation struck by simply taking time to look around! 
 
