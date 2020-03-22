@@ -3,7 +3,7 @@ title: Catch the stars
 author: Ashwini Munji
 date: 2019-06-16
 hero: ./images/hero.jpg
-excerpt: First post. 
+excerpt: How would you like to have a new wallpaper for your smart device?  
 ---
 
 
@@ -23,4 +23,5 @@ This Illustration is a small fragment of my imagination, hoping to hold the star
 
 You can download this illustration as to your smart device wallpaper for free [here](https://drive.google.com/file/d/1VyR1AWaHYzjLoolKH2A0e-19FJl4I0Nk/view?usp=sharing)! 
 
-You can thank me by tweeting about it or by uploading a screenshot story on Instagram.[@ashwinimunji] 
+You can thank me by tweeting about it or by uploading a screenshot story on Instagram.[@ashwinimunji](https://www.instagram.com/ashwinimunji/)
+
