@@ -1,5 +1,5 @@
 ---
-title: Project - DIY Accent Wall
+title: DIY Accent Wall
 author: Ashwini Munji
 date: 2020-04-27
 hero: ./images/Hero.jpg
@@ -11,9 +11,9 @@ excerpt: Don't we all love coming home to a beautiful space? Some say how we dec
 Hello people!!
 How are you guys doing? Trying to keep yourselves occupied during this lockdown? Here's a simple DIY to keep you busy for a while.
 
-Don't we all love coming home to a beautiful space? Some say how we decorate our home is a reflection of our personality. Whether you're a believer in this saying or not, Whether you like clean, minimalistic spaces, bright or bold spaces, we all have a preference. <del>Well, Mostly.</del>
+Don't we all love coming home to a beautiful space? Some say how we decorate our home is a reflection of our personality. Whether you're a believer in this saying or not, whether you like clean, minimalistic spaces, bright or bold spaces, we all have a preference. <del>Well, mostly.</del>
 
-I, for one, personally like spaces that look classy but with a hint of quirk. When it comes to Living Rooms especially, I like them to be peppy and functional. I'm one of those people who loves to host friends & family and hosting Game Nights is a ritual in the D household. 
+I, for one, personally like spaces that look classy but with a hint of quirk. When it comes to Living Rooms especially, I like them to be peppy and functional. I'm one of those people who loves to have people come over and hosting Game Nights is a ritual in the D household. 
 
 Now, I happen to live in a rental in California and like so many other people, the thing I care about the most while changing apartments is getting my full safety deposit back. Since painting walls is not allowed and/or is a hassle in rentals, here's a quick DIY that will instantly brighten the vibe of your apartment and make it look like your dream home! 
 
@@ -29,7 +29,7 @@ Now, don't be too excited to go shop for stuff. I'm pretty sure if you look arou
 4. <del> That's it</del>
 
 DESIGN TIP #1: Locate the focal wall in your room. Where do you want the design/pattern to be? 
-HINT: It is usually the first thing people see when they enter the room. <del> Or Not </del> You decide!
+HINT: It is usually the first thing people see when they enter the room. <del> Or not </del> You decide!
 
 <div className="Image__Small">
   <img
