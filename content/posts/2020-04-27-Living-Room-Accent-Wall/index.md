@@ -15,7 +15,7 @@ Don't we all love coming home to a beautiful space? Some say how we decorate our
 
 I, for one, personally like spaces that look classy but with a hint of quirk. When it comes to Living Rooms especially, I like them to be peppy and functional. I'm one of those people who loves to have people come over and hosting Game Nights is a ritual in the D household. 
 
-Now, I happen to live in a rental in California and like so many other people, the thing I care about the most while changing apartments is getting my full safety deposit back. Since painting walls is not allowed and/or is a hassle in rentals, here's a quick DIY that will instantly brighten the vibe of your apartment and make it look like your dream home! 
+I happen to live in a rental in California and like so many other people, the thing I care about the most while changing apartments is getting my full safety deposit back. Since painting walls is not allowed and/or is a hassle in rentals, here's a quick DIY that will instantly brighten the vibe of your apartment and make it look like your dream home! 
 
 Also, what better time to do it than during the lockdown?!! So, let's get started.
 
@@ -58,7 +58,7 @@ I decided to use a golden metallic tape to highlight the colour of my wall. Make
 Finally, Its time to work on the pattern. You could make any pattern using the tape you have. Be creative! 
 
 DESIGN TIP #3
-It's always a good idea to first sketch it out on a piece of paper before marking the wall. If you want perfection, have time to spare and can work your way around design software to precisely measure and sketch, I recommend you do that first. (SketchUp is the easiest!)
+It's always a good idea to first sketch the pattern out on a piece of paper before marking the wall. If you want perfection, I recommend you use a design software to precisely measure and sketch. ([SketchUp] (https://www.sketchup.com/) is the easiest for beginners.)
 
 For my wall, I chose a geometric pattern using parallel and diagonal lines. 
 Start marking the wall using a light pencil. Once you're satisfied, use the markings as a guide to applying the tape. 
