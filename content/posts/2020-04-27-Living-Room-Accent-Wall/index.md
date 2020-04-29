@@ -8,9 +8,9 @@ excerpt: Don't we all love coming home to a beautiful space? Some say how we dec
 
 ## DIY Accent Wall
 
-Hello people!!
+Hello beautiful people! :)
 
-How are you guys doing? Trying to keep yourselves occupied during this lockdown? Here's a simple DIY to keep you busy for a while.
+How are you guys doing? Trying to keep yourselves occupied during the lockdown? Here's a simple DIY to keep you busy for a while.
 
 Don't we all love coming home to a beautiful space? Some say how we decorate our home is a reflection of our personality. Whether you're a believer in this saying or not, whether you like clean, minimalistic spaces, bright or bold spaces, we all have a preference. <del>Well, mostly.</del>
 
@@ -74,7 +74,7 @@ Start marking the wall using a light pencil. Once you're satisfied, use the mark
 
 
 DESIGN TIP #4
-I will highly recommend you to finish making lines/patterns in one direction first before adding lines/patterns in another. This will keep the work in order and reduce confusion.
+I highly recommend you to finish making lines/patterns in one direction first before adding lines/patterns in another. This will keep the work in order and reduce confusion.
 
 Once you're done, don't forget to trim the edges and clean up loose ends, if any. Finally, add furniture and accessories. Don't forget to give yourself a pat for making good use of the time. 
 
