@@ -9,19 +9,20 @@ excerpt: Don't we all love coming home to a beautiful space? Some say how we dec
 ## DIY Accent Wall
 
 Hello people!!
+
 How are you guys doing? Trying to keep yourselves occupied during this lockdown? Here's a simple DIY to keep you busy for a while.
 
 Don't we all love coming home to a beautiful space? Some say how we decorate our home is a reflection of our personality. Whether you're a believer in this saying or not, whether you like clean, minimalistic spaces, bright or bold spaces, we all have a preference. <del>Well, mostly.</del>
 
 I, for one, personally like spaces that look classy but with a hint of quirk. When it comes to Living Rooms especially, I like them to be peppy and functional. I'm one of those people who loves to have people come over and hosting Game Nights is a ritual in the D household. 
 
-I happen to live in a rental in California and like so many other people, the thing I care about the most while changing apartments is getting my full safety deposit back. Since painting walls is not allowed and/or is a hassle in rentals, here's a quick DIY that will instantly brighten the vibe of your apartment and make it look like your dream home! 
+I live in a rental in California and like most renters, I care about getting my entire safety deposit back most when it is time to move. Since painting walls is not allowed and/or is a hassle in rentals, here's a quick DIY that will instantly brighten the vibe of your apartment and make it look like your dream home! 
 
 Also, what better time to do it than during the lockdown?!! So, let's get started.
 
 Things you'll need:
 
-Now, don't be too excited to go shop for stuff. I'm pretty sure if you look around, you'll find everything you need. STAY HOME.
+As exciting as shopping sounds, I'm sure if you just look around, you might find everything you need. PLEASE STAY HOME.
 
 1. Tape - Any tape will do. Washi, Colour, Metallic, decorative, coloured Duct tape, Gorilla tape. Just Anything.
 2. Scale/ Measuring tape
