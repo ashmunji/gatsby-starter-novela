@@ -6,7 +6,7 @@ module.exports = {
     description: `Personal Blog of Ashwini Munji`,
     hero: {
       heading: `studio nimu`,
-      maxWidth: 20,
+      maxWidth: 40,
     },
     social: [
       {
