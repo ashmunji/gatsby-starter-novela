@@ -3,10 +3,10 @@ module.exports = {
     title: `Blog | Ashwini Munji`,
     name: `Blog - Ashwini`,
     siteUrl: `https://blog.nimu.work`,
-    description: `Personal blog of Ashwini Munji Diddigi`,
+    description: `Personal Blog of Ashwini Munji`,
     hero: {
-      heading: `Studio Nimu`,
-      maxWidth: 10,
+      heading: `studio nimu`,
+      maxWidth: 20,
     },
     social: [
       {
